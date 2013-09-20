@@ -1,0 +1,12 @@
+"3.7.1 (created: 2013/05/22 20:32:57)
+
+highlight Hint font-family: monospace; font-size: 13px; font-weight: bold; text-transform: uppercase; color: white; background-color: red; border-color: ButtonShadow; border-width: 0px; border-style: solid; padding: 0px 1px 0px 1px; 
+noremap l gt
+noremap h gT
+noremap j 5j
+noremap k 5k
+set hintchars=hjklasdfgyuiopqwertnmzxcvb
+source! /home/jian/.vimperatorrc.local
+
+" vim: set ft=vimperator:
+
